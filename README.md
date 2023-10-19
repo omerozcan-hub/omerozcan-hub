@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerozcan-hub&show_icons=true&locale=en" alt="omerozcan-hub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerozcan-hub&" alt="omerozcan-hub" /></p>
+
+![snake gif](https://github.com/omerozcan-hub/omerozcan-hub/blob/output/github-contribution-grid-snake.gif)
