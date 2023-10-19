@@ -1,6 +1,8 @@
-[![MasterHead](https://r.resimlink.com/_8mBrAPcFnR.gif)
+<div align="center"><img alt="welcome" src="https://r.resimlink.com/_8mBrAPcFnR.gif" height="auto" width="auto" /></div>
+
+
 <h1 align="center">Hi 👋, I'm Ömer ÖZCAN</h1>
-<h3 align="center">Software enginner and backend developer.</h3>
+<h3 align="center">Software engineer and backend developer.</h3>
 
 - 🔭 I’m currently working on **Spring**
 
