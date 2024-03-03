@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerozcan-hub&" alt="omerozcan-hub" /></p>
 
-![snake gif](https://github.com/omerozcan-hub/omerozcan-hub/blob/output/github-contribution-grid-snake-light.svg)
+![snake gif](https://github.com/omerozcan-hub/omerozcan-hub/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/omerozcan-hub/omerozcan-hub/blob/main/images/marquee.svg" />
