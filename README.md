@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ömer ÖZCAN</h1>
 <h3 align="center">Software Engineer And Backend Developer.</h3>
 
-- 🔭 I’m currently working on **Spring**
+- 🔭 I’m currently working on **Java and Spring**
 
 - 🌱 I’m currently learning **about AI**
 
